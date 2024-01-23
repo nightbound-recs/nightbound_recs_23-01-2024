@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    width: 50%;
+}
+
+.header{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bandlist{
+    font-family: 'Olde English';
+    font-size: 24;
+    font-weight: normal;
+}
+
+.center2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 50%;
+    border: 1mm solid white;
+    border-width: thin;
+}
